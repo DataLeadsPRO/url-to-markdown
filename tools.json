@@ -1,0 +1,20 @@
+[
+  {
+    "name": "markdown",
+    "method": "POST",
+    "path": "/markdown",
+    "description": "V1 Markdown"
+  },
+  {
+    "name": "extract",
+    "method": "POST",
+    "path": "/extract",
+    "description": "V1 Extract"
+  },
+  {
+    "name": "news_article",
+    "method": "POST",
+    "path": "/news/article",
+    "description": "V1 News Article"
+  }
+]
