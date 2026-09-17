@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/url-to-markdown-mcp:latest
+          tags: ghcr.io/dataleadspro/url-to-markdown-mcp:latest
