@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "name": "io.github.dataleadspro/url-to-markdown",
+  "description": "Convert any webpage to clean LLM-ready markdown, extraction-first, with article and news modes.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/DataLeadsPRO/url-to-markdown",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://data.dataleads.pro/mcp/url-to-markdown"
+    }
+  ]
+}
